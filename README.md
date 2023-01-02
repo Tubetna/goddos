@@ -2,4 +2,4 @@
 + sudo apt install golang 
 + git clone https://github.com/Tubetna/goddos.git
 + cd goddos/
-+ go d.go
++ go run d.go --site url victim
